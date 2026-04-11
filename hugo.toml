@@ -1,0 +1,7 @@
+baseURL = 'https://candidcryptopodcast.com/'
+locale = 'en-us'
+title = 'Candid Crypto Podcast'
+
+[module]
+  [[module.imports]]
+    path = "github.com/hugo-sid/hugo-blog-awesome"
