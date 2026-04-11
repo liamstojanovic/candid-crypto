@@ -1,6 +1,6 @@
 ---
 title: "What is the Bored Ape Yacht Club (BAYC)?"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2021-11-01T00:00:00Z" 
 author: "Julian Litvak"
 categories:
   - "blog"

@@ -1,6 +1,6 @@
 ---
 title: "What is Art Blocks?"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2022-01-01T00:00:00Z"
 author: "Julian Litvak"
 categories:
   - "blog"

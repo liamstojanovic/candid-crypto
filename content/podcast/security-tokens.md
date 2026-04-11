@@ -1,6 +1,6 @@
 ---
 title: "[S2E1] Security Tokens &#038; STM with Jason Barraza"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2022-04-29T00:00:00Z"
 author: "Michael Edelheit"
 categories:
   - "podcast"

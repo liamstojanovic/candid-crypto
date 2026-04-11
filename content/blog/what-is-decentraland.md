@@ -1,6 +1,6 @@
 ---
 title: "What is Decentraland?"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2022-01-19T00:00:00Z"
 author: "Julian Litvak"
 categories:
   - "blog"

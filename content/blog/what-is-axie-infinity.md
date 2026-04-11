@@ -1,6 +1,6 @@
 ---
 title: "What is Axie Infinity?"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2021-11-29T00:00:00Z"
 author: "Julian Litvak"
 categories:
   - "blog"

@@ -1,6 +1,6 @@
 ---
 title: "Polygon Deep Dive"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2022-02-04T00:00:00Z"
 author: "Liam"
 categories:
   - "videos"

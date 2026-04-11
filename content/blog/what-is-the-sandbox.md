@@ -1,6 +1,6 @@
 ---
 title: "What is The Sandbox?"
-date: ""  # UNKNOWN DATE — please fill in manually
+date: "2022-03-29T00:00:00Z"
 author: "Julian Litvak"
 categories:
   - "blog"
