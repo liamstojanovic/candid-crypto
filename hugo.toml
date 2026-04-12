@@ -10,6 +10,22 @@ title = 'Candid Crypto Podcast'
   mainSections = ["articles", "podcast", "videos"]
   defaultColor = "auto"
 
+[[params.socialIcons]]
+  name = "discord"
+  url = "https://discord.gg/Pu2hCfsdwz"
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UC-zsyn8m_AqE3sfkLUMi99g"
+
+[[params.socialIcons]]
+  name = "applepodcasts"
+  url = "https://podcasts.apple.com/ca/podcast/candid-crypto/id1564765880"
+
+[[params.socialIcons]]
+  name = "spotify"
+  url = "https://open.spotify.com/show/6YXtKs9cvMU3XwvlqBegU7?si=ssXqIz0IQTyeWnSF7ZYILQ&dl_branch=1"
+
 [[menu.main]]
   name = "Articles"
   url = "/articles/"

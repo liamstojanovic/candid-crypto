@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:spotify="https://www.spotify.com/ns/rss"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    >
+    <channel>
+        <title>Candid Crypto</title>
+        <googleplay:owner>liam.stojanovic@gmail.com</googleplay:owner>
+        <googleplay:author>Liam Stojanovic, Michael Edelheit</googleplay:author>
+        <description>A podcast for crypto beginners. https://candidcryptopodcast.com </description>
+        <googleplay:image href="https://f002.backblazeb2.com/file/candid-crypto-public/art/candidcrypto_current.png"/>
+        <itunes:image href="https://f002.backblazeb2.com/file/candid-crypto-public/art/candidcrypto_current.png"/>
+        <atom:link href="https://candidcryptopodcast.com/podcast.rss" rel="self" type="application/rss+xml"/>
+        <itunes:explicit>false</itunes:explicit>
+        <googleplay:category text="Technology"/>
+        <itunes:category text="Technology"/>
+        <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        <itunes:summary>Information and stories about Cryptocurrency. [NOTE: This podcast is currently on an indefinite pause as of November 2025. Thank you for listening!]</itunes:summary>
+        <itunes:subtitle>Candid crypto is a place for listeners to learn about the growing digital asset space - currently on indefinite pause.</itunes:subtitle>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:email>
+                liam.stojanovic@gmail.com
+            </itunes:email>
+            <itunes:name>
+                Liam Stojanovic
+            </itunes:name>
+        </itunes:owner>
+        <language>en-us</language>
+        <link>https://candidcryptopodcast.com/</link>
+        <copyright>2025 Liam Stojanovic, Michael Edelheit</copyright>
+        <item>
+            <title>Ep 1: DYOR (Do your own research)</title>
+            <description>When it comes to researching cryptocurrency, where do you start? Intro song: Screen Saver by Kevin MacLeod</description>
+            <pubDate>Fri, 23 Apr 2021 17:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/dyor-1/dyor_mixdown_web.mp3" type="audio/mpeg" length="17444718"/>
+            <itunes:duration>07:16</itunes:duration>
+            <guid isPermaLink="false">ccdyor001</guid>
+            <itunes:title>Ep 001: DYOR (Do your own research)</itunes:title>
+            <itunes:summary>When it comes to researching crytpocurrency, where do you start? Intro song: Screen Saver by Kevin MacLeod</itunes:summary>
+            <itunes:subtitle>When it comes to researching crytpocurrency, where do you start?</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 002: What is Bitcoin?</title>
+            <description>Who made Bitcoin, how does it work, and what is a blockchain?</description>
+            <pubDate>Fri, 30 Apr 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/mixdown_002_whatisbitcoin_final_web.mp3" type="audio/mpeg" length="62445374"/>
+            <itunes:duration>26:01</itunes:duration>
+            <guid isPermaLink="false">ccep002</guid>
+            <itunes:title>Ep 002: What is Bitcoin?</itunes:title>
+            <itunes:summary>Who made Bitcoin, how does it work, and what is a blockchain?</itunes:summary>
+            <itunes:subtitle>Everything BTC</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 003: What is Ethereum?</title>
+            <description>The computational blockchain. Why is a programmable blockchain important? What's a DAO? Why buy an NFT?</description>
+            <pubDate>Fri, 07 May 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/003_mixdown_final_web.mp3" type="audio/mpeg" length="77259961"/>
+            <itunes:duration>32:11</itunes:duration>
+            <guid isPermaLink="false">ccep003</guid>
+            <itunes:title>Ep 003: What is Ethereum?</itunes:title>
+            <itunes:summary>The computational blockchain. Why is a programmable blockchain important? What's a DAO? Why buy an NFT?</itunes:summary>
+            <itunes:subtitle>Ethereum, the computational blockchain.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 004: Exchanges</title>
+            <description>Everything exchanges. What is KYC? What makes an exchange centralized vs decentralized?</description>
+            <pubDate>Fri, 14 May 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/Final_Mixdown_004_exchanges_web.mp3" type="audio/mpeg" length="20811340"/>
+            <itunes:duration>08:40</itunes:duration>
+            <guid isPermaLink="false">ccep004</guid>
+            <itunes:title>Ep 004: Exchanges</itunes:title>
+            <itunes:summary>Everything exchanges. What is KYC? What makes an exchange centralized vs decentralized?</itunes:summary>
+            <itunes:subtitle>Everything exchanges.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 005: Crazy Crypto Stories</title>
+            <description>Michael shares stories from the crypto world.</description>
+            <pubDate>Fri, 21 May 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/Final_005_Crazy_Crypto_P1_Michael_web.mp3" type="audio/mpeg" length="21160227"/>
+            <itunes:duration>08:48</itunes:duration>
+            <guid isPermaLink="false">ccep005</guid>
+            <itunes:title>Ep 005: Crazy Crypto Stories</itunes:title>
+            <itunes:summary>Michael shares stories from the crypto world.</itunes:summary>
+            <itunes:subtitle>Michael shares stories from the crypto world.</itunes:subtitle>
+            <itunes:author>Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 006: Stablecoins</title>
+            <description>The almighty dollar, in digital form. Why use stablecoins over traditional fiat? Who issues these things? Find out in this weeks episode!</description>
+            <pubDate>Fri, 28 May 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/006_master_mixdown_web_final.mp3" type="audio/mpeg" length="27632485"/>
+            <itunes:duration>11:30</itunes:duration>
+            <guid isPermaLink="false">ccep006</guid>
+            <itunes:title>Ep 006: Stablecoins</itunes:title>
+            <itunes:summary>The almighty dollar, in digital form. Why use stablecoins over traditional fiat? Who issues these things? Find out in this weeks episode!</itunes:summary>
+            <itunes:subtitle>The almighty dollar, in digital form.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 007: NFTs</title>
+            <description>How are NTFs currently being used in the real world? What goes into making an NFT? Find out on this week's episode!</description>
+            <pubDate>Fri, 04 Jun 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/master_mixdown_007_web.mp3" type="audio/mpeg" length="30835107"/>
+            <itunes:duration>12:50</itunes:duration>
+            <guid isPermaLink="false">ccep007</guid>
+            <itunes:title>Ep 007: NFTs</itunes:title>
+            <itunes:summary>How are NTFs currently being used in the real world? What goes into making an NFT?</itunes:summary>
+            <itunes:subtitle>NFT use cases, and building them yourself.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 008: Basic Attention Token</title>
+            <description>BAT and brave. How is brave different than other web browsers? Well, you get paid to use it, in crypto! Plus, it blocks ads everywhere.</description>
+            <pubDate>Fri, 11 Jun 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/finalMixdown_ep008_edit2.mp3" type="audio/mpeg" length="27762688"/>
+            <itunes:duration>11:33</itunes:duration>
+            <guid isPermaLink="false">ccep008</guid>
+            <itunes:title>Ep 008: Basic Attention Token</itunes:title>
+            <itunes:summary>BAT and brave. How is brave different than other web browsers? Well, you get paid to use it, in crypto! Plus, it blocks ads everywhere.</itunes:summary>
+            <itunes:subtitle>BAT and brave.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 009: Cardano</title>
+            <description>The academic blockchain. What's different about Cardano?</description>
+            <pubDate>Fri, 18 Jun 2021 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/009_master_mixdown_web.mp3" type="audio/mpeg" length="35516339"/>
+            <itunes:duration>14:47</itunes:duration>
+            <guid isPermaLink="false">ccep009</guid>
+            <itunes:title>Ep 009: Cardano</itunes:title>
+            <itunes:summary>The academic blockchain. What's different about Cardano?</itunes:summary>
+            <itunes:subtitle>Cardano and ADA.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 010: Wallets</title>
+            <description>Cryptocurrency wallets. "Not your keys, not your coins".</description>
+            <pubDate>Fri, 25 Jun 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep010_final_mixdown.mp3" type="audio/mpeg" length="27066166"/>
+            <itunes:duration>11:16</itunes:duration>
+            <guid isPermaLink="false">ccep010</guid>
+            <itunes:title>Ep 010: Wallets</itunes:title>
+            <itunes:summary>Cryptocurrency wallets. "Not your keys, not your coins".</itunes:summary>
+            <itunes:subtitle>Cryptocurrency wallets.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 011: Crazy Crypto Stories Pt. II</title>
+            <description>Crazy crypto stories is back! Liam and Michael face off in an epic story battle.</description>
+            <pubDate>Fri, 02 Jul 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep011_master_mixdown_web.mp3" type="audio/mpeg" length="24867697"/>
+            <itunes:duration>10:21</itunes:duration>
+            <guid isPermaLink="false">ccep011</guid>
+            <itunes:title>Ep 011: Crazy Crypto Stories Pt. II</itunes:title>
+            <itunes:summary>Crazy crypto stories is back! Liam and Michael face off in an epic story battle.</itunes:summary>
+            <itunes:subtitle>Whose story won: Liam or Michael?</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 012: Mining</title>
+            <description>Bitcoin, the rare earth metal of the internet. We talk about crypto mining from a high-level perspective, and share our personal experiences. Why did China ban mining? What does it take to mine?</description>
+            <pubDate>Fri, 09 Jul 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep012_master_mixdown.mp3" type="audio/mpeg" length="44491909"/>
+            <itunes:duration>18:32</itunes:duration>
+            <guid isPermaLink="false">ccep012</guid>
+            <itunes:title>Ep 012: Mining</itunes:title>
+            <itunes:summary>Bitcoin, the rare earth metal of the internet. We talk about crypto mining from a high-level perspective, and share our personal experiences. Why did China ban mining? What does it take to mine?</itunes:summary>
+            <itunes:subtitle>Grab your graphics cards, we're mining for Bitcoins.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 013: Mining Pt 2</title>
+            <description>Liam tackles the technical aspects of mining. What is actually in a block? Sources: https://www.freecodecamp.org/news/how-bitcoin-mining-really-works-38563ec38c87/ https://www.investopedia.com/terms/b/bitcoin-mining.asp https://en.bitcoin.it/wiki/Block</description>
+            <pubDate>Fri, 23 Jul 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep013_masterMixdown_web.mp3" type="audio/mpeg" length="23377658"/>
+            <itunes:duration>09:44</itunes:duration>
+            <guid isPermaLink="false">ccep013</guid>
+            <itunes:title>Ep 013: Mining Pt 2</itunes:title>
+            <itunes:summary>Liam tackles the technical aspects of mining. What is actually in a block? Sources: https://www.freecodecamp.org/news/how-bitcoin-mining-really-works-38563ec38c87/ https://www.investopedia.com/terms/b/bitcoin-mining.asp https://en.bitcoin.it/wiki/Block</itunes:summary>
+            <itunes:subtitle>Liam tackles the technical aspects of mining.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 014: Investing vs Trading</title>
+            <description>Crypto enthusiasts can be broken down into two categories: Investors, and traders. What's the difference?</description>
+            <pubDate>Fri, 06 Aug 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep014_masterMixdown.mp3" type="audio/mpeg" length="30300119"/>
+            <itunes:duration>12:37</itunes:duration>
+            <guid isPermaLink="false">ccep014</guid>
+            <itunes:title>Ep 014: Investing vs Trading</itunes:title>
+            <itunes:summary>Crypto enthusiasts can be broken down into two categories: Investors and traders. What's the difference?</itunes:summary>
+            <itunes:subtitle>Investors and traders. What's the difference?</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+	<item>
+            <title>Ep 015: Privacy Coins</title>
+            <description>The true "digital cash" of the internet. We talk about incentives to use privacy coins, and why they freak some people out.</description>
+            <pubDate>Fri, 10 Sep 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/master_mixdown_ep015.mp3" type="audio/mpeg" length="15015362"/>
+            <itunes:duration>6:15</itunes:duration>
+            <guid isPermaLink="false">ccep015</guid>
+            <itunes:title>Ep 015: Privacy Coins</itunes:title>
+            <itunes:summary>The true "digital cash" of the internet. We talk about incentives to use privacy coins, and why they freak some people out.</itunes:summary>
+            <itunes:subtitle>The true "digital cash" of the internet. We talk about incentives to use privacy coins, and why they freak some people out.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+	<item>
+            <title>Ep 016: Chainlink</title>
+            <description>Taking data and putting it on the blockchain.</description>
+            <pubDate>Fri, 08 Oct 2021 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/mixdown_ep016_web.mp3" type="audio/mpeg" length="15252516"/>
+            <itunes:duration>6:21</itunes:duration>
+            <guid isPermaLink="false">ccep016</guid>
+            <itunes:title>Ep 016: Chainlink</itunes:title>
+            <itunes:summary>Taking data and putting it on the blockchain.</itunes:summary>
+            <itunes:subtitle>Taking data and putting it on the blockchain.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 018: Polkadot</title>
+            <description>A protocol that allows arbitrary data to be transferred across any blockchain. We dig into the project, and present an earnest perspective on what it offers.</description>
+            <pubDate>Fri, 28 Jan 2022 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/Dot+final+episode+web.mp3" type="audio/mpeg" length="21921142"/>
+            <itunes:duration>09:08</itunes:duration>
+            <guid isPermaLink="false">ccep018</guid>
+            <itunes:title>Ep 018: Polkadot</itunes:title>
+            <itunes:summary>A protocol that allows arbitrary data to be transferred across any blockchain. We dig into the project, and present an earnest perspective on what it offers.</itunes:summary>
+            <itunes:subtitle>A protocol that allows arbitrary data to be transferred across any blockchain.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 019: Polygon</title>
+            <description>We talk about our favorite shapes. Just kidding. This Polygon promises the Ethereum you know and love at a fraction of the cost.</description>
+            <pubDate>Fri, 04 Feb 2022 21:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep019+MATIC+Final+Episode+Mix+web.mp3" type="audio/mpeg" length="6453470"/>
+            <itunes:duration>06:28</itunes:duration>
+            <guid isPermaLink="false">ccep019</guid>
+            <itunes:title>Ep 019: Polygon</itunes:title>
+            <itunes:summary>We talk about our favorite shapes. Just kidding. This Polygon promises the Ethereum you know and love at a fraction of the cost.</itunes:summary>
+            <itunes:subtitle>We talk about our favorite shapes.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>Ep 020: Season 1 Wrap Up</title>
+            <description>A meta episode. We close out our first season and talk about what's coming next for Candid Crypto!</description>
+            <pubDate>Sun, 27 Feb 2022 19:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/ep020_final_web.mp3" type="audio/mpeg" length="17327542"/>
+            <itunes:duration>07:13</itunes:duration>
+            <guid isPermaLink="false">ccep020</guid>
+            <itunes:title>Ep 020: Season 1 Wrap Up</itunes:title>
+            <itunes:summary>A meta episode. We close out our first season and talk about what's coming next for Candid Crypto!</itunes:summary>
+            <itunes:subtitle>A meta episode.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>[Season 2!! E1] Security Tokens and STM with Jason Barraza</title>
+            <description>We kick off season 2 of Candid Crypto with our first guest, Jason Barraza. In this episode, we discuss Security Tokens, which are tokens could represent ownership of any valuable financial assets like stocks or real estate.</description>
+            <pubDate>Fri, 29 Apr 2022 17:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/s2/s2ep1.mp3" type="audio/mpeg" length="116453199"/>
+            <itunes:duration>48:31</itunes:duration>
+            <guid isPermaLink="false">ccs2e1</guid>
+            <itunes:title>[Season 2!! E1] Security Tokens and STM with Jason Barraza</itunes:title>
+            <itunes:summary>We kick off season 2 of Candid Crypto with our first guest, Jason Barraza. In this episode, we discuss Security Tokens, which are tokens could represent ownership of any valuable financial assets like stocks or real estate.</itunes:summary>
+            <itunes:subtitle>We kick off season 2 of Candid Crypto with our first guest, Jason Barraza.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>022: The Merge</title>
+            <description>Michael and Liam review one of the most significant events in crypto for the second episode of season 2. "The Merge" is a game changer for the Ethereum blockchain and the sustainability of crypto. Tune in to learn why "The Merge" was essential for the world's second-largest blockchain, and how Ethereum will never be the same.</description>
+            <pubDate>Tue, 27 Sep 2022 17:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/022_merge.mp3" type="audio/mpeg" length="30418178"/>
+            <itunes:duration>12:40</itunes:duration>
+            <guid isPermaLink="false">ccep022</guid>
+            <itunes:title>Ep 022: The Merge</itunes:title>
+            <itunes:summary>Michael and Liam review one of the most significant events in crypto for the second episode of season 2. "The Merge" is a game changer for the Ethereum blockchain and the sustainability of crypto. Tune in to learn why "The Merge" was essential for the world's second-largest blockchain, and how Ethereum will never be the same.</itunes:summary>
+            <itunes:subtitle>Michael and Liam review one of the most significant events in crypto, "The Merge".</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+        <item>
+            <title>023: DYOR II</title>
+            <description>DYOR: Dig your own radishes? No! Do your own research. Learn the research process we use, and our fundamental questions.  | Useful crypto research sites
+            https://www.coingecko.com/
+
+
+            https://decrypt.co/
+
+
+            https://www.investopedia.com/
+
+
+            https://www.coindesk.com/
+
+
+            Tokenomics
+
+
+            https://thecoinperspective.com/
+
+
+            https://coinmarketcap.com/</description>
+            <pubDate>Tue, 25 Oct 2022 17:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/023_mixdown_final_web.mp3" type="audio/mpeg" length="31934330"/>
+            <itunes:duration>13:18</itunes:duration>
+            <guid isPermaLink="false">ccep023</guid>
+            <itunes:title>Ep 023: DYOR II</itunes:title>
+            <itunes:summary>Learn how this one simple trick can make your crypto experience much more enjoyable! | Useful crypto research sites
+            https://www.coingecko.com/
+
+
+            https://decrypt.co/
+
+
+            https://www.investopedia.com/
+
+
+            https://www.coindesk.com/
+
+
+            Tokenomics
+
+
+            https://thecoinperspective.com/
+
+
+            https://coinmarketcap.com/</itunes:summary>
+            <itunes:subtitle>Learn how this one simple trick can make your crypto experience much more enjoyable!</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+	<item>
+            <title>024: Rug-Pull-a-Palooza</title>
+            <description>Crypto has always been risky, but recent failures of the most prominent crypto exchanges (FTX) and projects have made everyone aware that it is easy to lose your digital assets. Scams have never been more prevalent in the crypto space, which is why it is necessary to know the playbook of these fraudulent actors. In this episodes, Michael and Liam review the most common crypto scams and how to avoid them.</description>
+            <pubDate>Mon, 19 Dec 2022 17:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/mixdown_024_Final.mp3" type="audio/mpeg" length="33515264"/>
+            <itunes:duration>13:58</itunes:duration>
+            <guid isPermaLink="false">ccep024</guid>
+            <itunes:title>024: Rug-Pull-a-Palooza</itunes:title>
+            <itunes:summary>Crypto has always been risky, but recent failures of the most prominent crypto exchanges (FTX) and projects have made everyone aware that it is easy to lose your digital assets. Scams have never been more prevalent in the crypto space, which is why it is necessary to know the playbook of these fraudulent actors. In this episodes, Michael and Liam review the most common crypto scams and how to avoid them.</itunes:summary>
+            <itunes:subtitle>In this episodes, Michael and Liam review the most common crypto scams and how to avoid them.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+	<item>
+            <title>025: OpenBazaar</title>
+            <description>Explore the ambitious origins, transformations, and challenges of OpenBazaar, a revolutionary decentralized digital marketplace.</description>
+            <pubDate>Sat, 16 Sep 2023 17:00:00 GMT</pubDate>
+            <enclosure url="https://f002.backblazeb2.com/file/candid-crypto-public/episodes/mixdown_025_final.mp3" type="audio/mpeg" length="39594472"/>
+            <itunes:duration>16:30</itunes:duration>
+            <guid isPermaLink="false">ccep025</guid>
+            <itunes:title>025: OpenBazaar</itunes:title>
+            <itunes:summary>Join hosts Liam Stojanovic and Michael Edelheit as they delve deep into the story of OpenBazaar. From its conception at the 2014 Bitcoin Expo Hackathon as DarkMarket to its transformation into OpenBazaar, the episode covers the ups and downs of this groundbreaking project. Discover insights from behind-the-scenes, firsthand experiences as a seller, and the eventual decline and hopeful resurgence of the platform.</itunes:summary>
+            <itunes:subtitle>Explore the ambitious origins, transformations, and challenges of OpenBazaar, a revolutionary decentralized digital marketplace.</itunes:subtitle>
+            <itunes:author>Liam Stojanovic, Michael Edelheit</itunes:author>
+        </item>
+    </channel>
+</rss>
+
+
+
+
+
+
+
