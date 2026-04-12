@@ -1,0 +1,2 @@
+{{- $logo := resources.Get "candid_crypto_logo.png" -}}
+<img src="{{ $logo.RelPermalink }}" height="{{ .height }}" width="{{ .width }}" alt="Candid Crypto" style="display:block;">
