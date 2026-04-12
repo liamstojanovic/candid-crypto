@@ -3,7 +3,7 @@ title: "What is The Sandbox?"
 date: "2022-03-29T00:00:00Z"
 author: "Julian Litvak"
 categories:
-  - "blog"
+  - "articles"
 slug: "what-is-the-sandbox"
 description: "This article is written assuming that you understand the concept of a Non-Fungible Token (NFT).&nbsp; If you need a refresher on what an NFT is, check out this video. The Sandbox Game is a play-to-earn blockchain-powered game, with an emphasis on community-driven experiences populating the open world. In The Sandbox, you navigate through a virtual&#8230;"
 ---

@@ -5,3 +5,21 @@ title = 'Candid Crypto Podcast'
 [module]
   [[module.imports]]
     path = "github.com/hugo-sid/hugo-blog-awesome"
+
+[params]
+  mainSections = ["articles", "podcast", "videos"]
+
+[[menu.main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 10
+
+[[menu.main]]
+  name = "Podcasts"
+  url = "/podcast/"
+  weight = 20
+
+[[menu.main]]
+  name = "Videos"
+  url = "/videos/"
+  weight = 30

@@ -3,7 +3,7 @@ title: "What is Decentraland?"
 date: "2022-01-19T00:00:00Z"
 author: "Julian Litvak"
 categories:
-  - "blog"
+  - "articles"
 slug: "what-is-decentraland"
 description: "This article is written assuming that you understand the concept of a Non-Fungible Token (NFT).&nbsp; If you need a refresher on what an NFT is, check out this video. Decentraland is an Ethereum-powered decentralized, virtual world.&nbsp; It is completely browser-based and can be played without having to pay upfront. The in-game economy revolves around the&#8230;"
 ---

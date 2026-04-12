@@ -3,7 +3,7 @@ title: "What is Art Blocks?"
 date: "2022-01-01T00:00:00Z"
 author: "Julian Litvak"
 categories:
-  - "blog"
+  - "articles"
 slug: "what-is-art-blocks"
 description: "This article is written assuming that you understand the concept of a Non-Fungible Token (NFT).&nbsp; If you need a refresher on what an NFT is, check out this video. Art Blocks is an Ethereum-based NFT platform that allows artists to showcase and sell their original digital artwork. Art Blocks is focused on art that is&#8230;"
 ---

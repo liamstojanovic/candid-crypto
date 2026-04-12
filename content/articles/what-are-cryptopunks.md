@@ -3,7 +3,7 @@ title: "What Are CryptoPunks?"
 date: "2022-01-01T00:00:00Z"
 author: "Julian Litvak"
 categories:
-  - "blog"
+  - "articles"
 slug: "what-are-cryptopunks"
 description: "This article is written assuming that you understand the concept of a Non-Fungible Token (NFT).&nbsp; If you need a refresher of what an NFT is, check out our podcast on NFTs or this video. CryptoPunks was released in June 2017 as an NFT project on the Ethereum blockchain. This project is significant because it was&#8230;"
 ---

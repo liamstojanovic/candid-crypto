@@ -3,7 +3,7 @@ title: "What is Axie Infinity?"
 date: "2021-11-29T00:00:00Z"
 author: "Julian Litvak"
 categories:
-  - "blog"
+  - "articles"
 slug: "what-is-axie-infinity"
 description: "This article is written assuming that you understand the concept of a Non-Fungible Token (NFT).&nbsp; If you need a refresher on what an NFT is, check out this video. Axie Infinity is a play-to-earn blockchain game where players can collect, breed, and battle creatures called Axies. The gameplay in Axie Infinity functions similarly to the&#8230;"
 ---

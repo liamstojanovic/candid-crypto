@@ -3,7 +3,7 @@ title: "What is the Bored Ape Yacht Club (BAYC)?"
 date: "2021-11-01T00:00:00Z" 
 author: "Julian Litvak"
 categories:
-  - "blog"
+  - "articles"
 slug: "what-is-the-bored-ape-yacht-club-bayc"
 description: "This article is written assuming that you understand the concept of a Non-Fungible Token (NFT).&nbsp; If you need a refresher on what an NFT is, check out this video. The Bored Ape Yacht Club is a popular series of NFT collectibles minted on the Ethereum blockchain. Launched by developer Yuga Labs in April 2021, the&#8230;"
 ---
