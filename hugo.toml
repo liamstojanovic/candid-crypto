@@ -8,6 +8,7 @@ title = 'Candid Crypto Podcast'
 
 [params]
   mainSections = ["articles", "podcast", "videos"]
+  defaultColor = "auto"
 
 [[menu.main]]
   name = "Articles"

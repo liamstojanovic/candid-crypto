@@ -20,7 +20,9 @@
         <main aria-label="Content">
             <div style="text-align:center; margin: 2rem 0 1.5rem;">
                 {{- $wordmark := resources.Get "candid_crypto_logo_wordmark_cropped.png" -}}
-                <img src="{{ $wordmark.RelPermalink }}" alt="Candid Crypto Podcast" style="max-width:320px; width:100%;">
+                {{- $wordmarkDark := resources.Get "candid_crypto_logo_wordmark_white.png" -}}
+                <img src="{{ $wordmark.RelPermalink }}" alt="Candid Crypto Podcast" class="site-wordmark logo-light" style="max-width:320px; width:100%;">
+                <img src="{{ $wordmarkDark.RelPermalink }}" alt="Candid Crypto Podcast" class="site-wordmark logo-dark" style="max-width:320px; width:100%; display:none;">
             </div>
             <h3 class="posts-item-note" aria-label="Recent Posts">{{ T "home.recent_posts" }}</h3>
             {{/* Show last 5 posts in reverse date order */}}

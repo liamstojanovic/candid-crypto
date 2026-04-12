@@ -1,2 +1,4 @@
 {{- $logo := resources.Get "candid_crypto_logo.png" -}}
-<img src="{{ $logo.RelPermalink }}" height="{{ .height }}" width="{{ .width }}" alt="Candid Crypto" style="display:block;">
+{{- $logoDark := resources.Get "candid_crypto_logo_white.png" -}}
+<img src="{{ $logo.RelPermalink }}" class="logo-light" height="{{ .height }}" width="{{ .width }}" alt="Candid Crypto" style="display:block;">
+<img src="{{ $logoDark.RelPermalink }}" class="logo-dark" height="{{ .height }}" width="{{ .width }}" alt="Candid Crypto" style="display:none;">

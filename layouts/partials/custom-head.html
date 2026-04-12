@@ -1,0 +1,112 @@
+<style>
+  @font-face {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/BEBAS.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-Thin.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 100;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-ThinItalic.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-Light.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 300;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-LightItalic.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-Regular.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-Italic.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-Bold.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-BoldItalic.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-Black.woff2").RelPermalink }}') format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 900;
+    font-display: swap;
+    src: url('{{ (resources.Get "fonts/Lato-BlackItalic.woff2").RelPermalink }}') format('woff2');
+  }
+
+  body {
+    font-family: 'Lato', sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: 0.05em;
+  }
+
+  .post-item-title {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: normal;
+  }
+
+  html.dark .logo-light,
+  html:not(.dark) .logo-dark {
+    display: none !important;
+  }
+
+  html.dark .logo-dark {
+    display: block !important;
+  }
+</style>
