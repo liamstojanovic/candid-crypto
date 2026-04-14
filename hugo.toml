@@ -9,6 +9,9 @@ title = 'Candid Crypto Podcast'
 [params]
   mainSections = ["articles", "podcast", "videos"]
   defaultColor = "auto"
+  sitename    = "Candid Crypto Podcast"
+  description = "A beginner-friendly crypto podcast by Liam Stojanovic and Michael Edelheit"
+  ogimage     = "https://f002.backblazeb2.com/file/candid-crypto-public/og-image.png"
 
 [[params.socialIcons]]
   name = "discord"
